@@ -40,7 +40,7 @@
 		<spring.version>6.2.2</spring.version>
 		<!-- db -->
 		<mybatis-spring-boot-starter.version>3.0.4</mybatis-spring-boot-starter.version>
-		<mysql-connector-j.version>9.2.0</mysql-connector-j.version>
+		<postgresql.version>42.7.5</postgresql.version>
 		<!-- dynamic language -->
 		<groovy.version>4.0.25</groovy.version>
 	</properties>
